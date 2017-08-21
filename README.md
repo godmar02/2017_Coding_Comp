@@ -2,20 +2,20 @@
 ## Introduction
 
 ## What's in your box
-1x BBC: Microbit (+ usb cable and battery pack)
-1x DC3-6V motor
-1x 40 pin male header connector 2.54mm pitch
-1x HCSR04 sonar sensor
-1x 400 point solderless breadboard
-A bag of assorted jumper cables M,F
-1x DHT11 temperature and humidity sensor
-Bag of various resistors
-1x 100KOhm linear potentiometer
-1x 9g micro servo
-Bag of assorted LEDs
-1x 5V DC buzzer
-2x Light Dependant Resistors
-4x 4-pin switches
+- 1x BBC: Microbit (+ usb cable and battery pack)
+- 1x DC3-6V motor
+- 1x 40 pin male header connector 2.54mm pitch
+- 1x HCSR04 sonar sensor
+- 1x 400 point solderless breadboard
+- A bag of assorted jumper cables
+- 1x DHT11 temperature and humidity sensor
+- Bag of various resistors
+- 1x 100KOhm linear potentiometer
+- 1x 9g micro servo
+- Bag of assorted LEDs
+- 1x 5V DC buzzer
+- 2x Light Dependant Resistors
+- 4x 4-pin switches
 
 ## Getting Started with your Microbit
 [quick-start]
