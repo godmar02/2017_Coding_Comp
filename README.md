@@ -31,14 +31,10 @@ For generic guides on a number of our components, including connecting LEDs, but
 
 Additionally, the following links give basics for a [servo], a [buzzer] and an [ldr].
 
-## Worked examples
-1. Your project
-2. Other worked example
-
 ## Helpful links and general reading
 We have included the below resources which are a good starting point for learning about the microbit and what it can do:
 - [micro:bit.org][micro:bit-home] 
-- [micro:bit-playground]
+- [micro:bit-playground.co.uk][micro:bit-playground]
 - [Python Tutorial][micro:bit-python-guide] - a variety of guides/tutorials to using python on the micro:bit
 - [Python Tutorials 2][micro:bit-python] - some more tutorials using python on the micro:bit, which use an offline python editor
 
