@@ -1,4 +1,4 @@
-# 2017 Coding Comp Beginners Guide
+# 2017 Coding Comp micro:bit Beginners Guide
 ## Introduction
 This year all teams have been provided with a BBC Microbit and an assorted box of goodies. The BBC Microbit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
@@ -25,9 +25,10 @@ To get up and running with your microbit we suggest that you start by reading th
 
 ### Connecting hardware
 Now that you understand the basics of getting code onto the microbit and getting it to execute the code you will want to start to understand the hardware itself and how you can connect bits and bobs to the microbit to make something a bit more exciting.
-[quick-start-hardware]
-[edge-connector]
-[components] For guides to connecting LED, buttons, a servo, potentiometer, sonar
+
+Start by looking at the following page which outlines the physical microbit itself and its various connectors [here][quick-start-hardware]. This should get you familiar with the microbit board and what each part corresponds too. In particular pay close attention to the PIN's section which talks about the edge of the board. We have provided an 'edge connector' which allows you to easily access all of the available connectors using provided cables. Please see the following instructional on the edge-connector [here][edge-connector].
+
+For generic guides on a number of our components, including connecting LEDs, buttons, servos, potentiometers and sonar-sensors please see the microbit-playground components page [here][components]. This should show how you can connect up various components to the microbit and learn how to utilise them in your code.
 
 ## Worked examples
 1. Your project
