@@ -36,10 +36,11 @@ Additionally, the following links give basics for a [servo], a [buzzer] and an [
 2. Other worked example
 
 ## Helpful links and general reading
-[micro:bit-home]
-[micro:bit-playground]
-[micro:bit-python-guide]
-[micro:bit-python]
+We have included the below resources which are a good starting point for learning about the microbit and what it can do:
+- [micro:bit.org][micro:bit-home] 
+- [micro:bit-playground]
+- [Python Tutorial][micro:bit-python-guide] - a variety of guides/tutorials to using python on the micro:bit
+- [Python Tutorials 2][micro:bit-python] - some more tutorials using python on the micro:bit, which use an offline python editor
 
 <!--Links-->
 [micro:bit-home]: http://micro:bit.org/
@@ -52,5 +53,5 @@ Additionally, the following links give basics for a [servo], a [buzzer] and an [
 [buzzer]: https://www.kitronik.co.uk/blog/micro:bit-alarm-kitronik-university
 [ldr]: http://www.getmicros.net/micro:bit-ldr-example.php
 [micro:bit-playground]: http://micro:bit-playground.co.uk/
-[micro:bit-python-guide]: http://micro:bit.co.uk/python-guide/
-[micro:bit-python]: http://micro:bit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
+[micro:bit-python-guide]: https://micro:bit.co.uk/python-guide/
+[micro:bit-python]: http://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
