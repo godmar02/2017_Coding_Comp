@@ -1,5 +1,6 @@
 # 2017 Coding Comp Beginners Guide
 ## Introduction
+This year all teams have been provided with a BBC Microbit and an assorted box of goodies. The BBC Microbit is essentially a small basic
 
 ## What's in your box
 - 1x BBC: Microbit (+ usb cable and battery pack)
@@ -36,6 +37,7 @@
 <!--Links-->
 [microbit-home]: http://microbit.org/
 [microbit-playground]: http://microbit-playground.co.uk/
+[microbit-home]: http://microbit.co.uk/python-guide/
 [microbit-python]: http://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
 
 [quick-start]: http://microbit.org/guide/quick/
