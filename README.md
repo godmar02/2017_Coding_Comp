@@ -1,8 +1,10 @@
 # 2017 Coding Comp Beginners Guide
 ## Introduction
-This year all teams have been provided with a BBC Microbit and an assorted box of goodies. The BBC Microbit is essentially a small basic
+This year all teams have been provided with a BBC Microbit and an assorted box of goodies. The BBC Microbit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
 ## What's in your box
+Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word Microbit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish.
+
 - 1x BBC: Microbit (+ usb cable and battery pack)
 - 1x DC3-6V motor
 - 1x 40 pin male header connector 2.54mm pitch
@@ -19,10 +21,10 @@ This year all teams have been provided with a BBC Microbit and an assorted box o
 - 4x 4-pin switches
 
 ## Getting Started with your Microbit
-[quick-start]
-[quick-start-mobile]
+To get up and running with your microbit we suggest that you start by reading the very helpful brief set-up guide provided by [microbit.org][microbit-home] by clicking [here][quick-start]. This tells you how to hit the ground running with coding on the microbit.  Additionally, if you wish to code using your phone and connect to the microbit using its bluetooth connectivity then you can follow their mobile set-up guide [here][quick-start-mobile].
 
 ### Connecting hardware
+Now that you understand the basics of getting code onto the microbit and getting it to execute the code you will want to start to understand the hardware itself and how you can connect bits and bobs to the microbit to make something a bit more exciting.
 [quick-start-hardware]
 [edge-connector]
 [components] For guides to connecting LED, buttons, a servo, potentiometer, sonar
