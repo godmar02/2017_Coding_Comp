@@ -3,33 +3,33 @@
 This year all teams have been provided with a BBC micro:bit and an assorted box of goodies. The BBC micro:bit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
 ## What's in your box
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="breadboard" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155441919.jpg" alt="wires" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155514171.jpg" alt="resistors" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155527136.jpg" alt="LDRsLEDsSwitches" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="BluetoothAdaptor" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155543432.jpg" alt="Buzzer" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155627132.jpg" alt="potentiometer" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155634642.jpg" alt="Motor" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155648321.jpg" alt="Sonar" width="200" height="200" />
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155654514.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155717017.jpg" alt="micro:bit" width="200" height="200" />
 
 Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word micro:bit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish.
 
 - 1x BBC: micro:bit (+ usb cable, battery pack and 40 pin male header connector 2.54mm pitch)
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155717017.jpg" alt="micro:bit" width="200" height="200" />
 - 1x DC3-6V motor
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155634642.jpg" alt="Motor" width="200" height="200" />
 - 1x HCSR04 sonar sensor
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155648321.jpg" alt="Sonar" width="200" height="200" />
 - 1x 400 point solderless breadboard
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="breadboard" width="200" height="200" />
 - A bag of assorted jumper cables
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155441919.jpg" alt="wires" width="200" height="200" />
 - 1x DHT11 temperature and humidity sensor (TBC)
-- Bag of various resistors
+- Bags of various resistors
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155514171.jpg" alt="resistors" width="200" height="200" />
 - 1x 100KOhm linear potentiometer
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155627132.jpg" alt="potentiometer" width="200" height="200" />
 - 1x 9g micro servo
-- Bag of assorted LEDs
+- Bag of assorted LEDs, Light Dependant Resistors and 4-pin switches
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155527136.jpg" alt="LDRsLEDsSwitches" width="200" height="200" />
 - 1x 5V DC buzzer
-- 2x Light Dependant Resistors
-- 4x 4-pin switches
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155543432.jpg" alt="Buzzer" width="200" height="200" />
+- 1x Bluetooth adaptor
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="BluetoothAdaptor" width="200" height="200" />
+
 
 ## Getting Started with your micro:bit
 To get up and running with your micro:bit we suggest that you start by reading the very helpful brief set-up guide provided by [micro:bit.org][micro:bit-home] by clicking [here][quick-start]. This tells you how to hit the ground running with coding on the micro:bit.  Additionally, if you wish to code using your phone and connect to the micro:bit using its bluetooth connectivity then you can follow their mobile set-up guide [here][quick-start-mobile].
