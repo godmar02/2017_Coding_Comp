@@ -15,21 +15,20 @@ Inside your box your should find a number of small items, do not be afraid if yo
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155648321.jpg" alt="Sonar" width="200" height="200" />
 - 1x 400 point solderless breadboard
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="breadboard" width="200" height="200" />
-- A bag of assorted jumper cables
+- Assorted jumper cables
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155441919.jpg" alt="wires" width="200" height="200" />
-- 1x DHT11 temperature and humidity sensor (TBC)
 - Bags of various resistors
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155514171.jpg" alt="resistors" width="200" height="200" />
 - 1x 100KOhm linear potentiometer
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155627132.jpg" alt="potentiometer" width="200" height="200" />
-- 1x 9g micro servo
 - Bag of assorted LEDs, Light Dependant Resistors and 4-pin switches
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155527136.jpg" alt="LDRsLEDsSwitches" width="200" height="200" />
 - 1x 5V DC buzzer
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155543432.jpg" alt="Buzzer" width="200" height="200" />
 - 1x Bluetooth adaptor
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="BluetoothAdaptor" width="200" height="200" />
-
+- 1x 9g micro servo
+- 1x DHT11 temperature and humidity sensor (TBC)
 
 ## Getting Started with your micro:bit
 To get up and running with your micro:bit we suggest that you start by reading the very helpful brief set-up guide provided by [micro:bit.org][micro:bit-home] by clicking [here][quick-start]. This tells you how to hit the ground running with coding on the micro:bit.  Additionally, if you wish to code using your phone and connect to the micro:bit using its bluetooth connectivity then you can follow their mobile set-up guide [here][quick-start-mobile].
