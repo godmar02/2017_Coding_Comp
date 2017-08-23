@@ -4,6 +4,7 @@ This year all teams have been provided with a BBC micro:bit and an assorted box 
 
 ## What's in your box
 ![alt text](https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg)
+![](https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg =100x20)
 Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word micro:bit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish.
 
 - 1x BBC: micro:bit (+ usb cable, battery pack and 40 pin male header connector 2.54mm pitch)
