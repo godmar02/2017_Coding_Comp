@@ -3,16 +3,15 @@
 This year all teams have been provided with a BBC micro:bit and an assorted box of goodies. The BBC micro:bit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
 ## What's in your box
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155441919.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155514171.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155521985.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155527136.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155543432.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155627132.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155634642.jpg" alt="pic1" width="200" height="200" />
-<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155648321.jpg" alt="pic1" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="breadboard" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155441919.jpg" alt="wires" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155514171.jpg" alt="resistors" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155527136.jpg" alt="LDRsLEDsSwitches" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="BluetoothAdaptor" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155543432.jpg" alt="Buzzer" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155627132.jpg" alt="potentiometer" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155634642.jpg" alt="Motor" width="200" height="200" />
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155648321.jpg" alt="Sonar" width="200" height="200" />
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155654514.jpg" alt="pic1" width="200" height="200" />
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155717017.jpg" alt="micro:bit" width="200" height="200" />
 
