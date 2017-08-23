@@ -3,8 +3,9 @@
 This year all teams have been provided with a BBC micro:bit and an assorted box of goodies. The BBC micro:bit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
 ## What's in your box
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg" alt="Drawing" style="width: 200px;"/>
 ![alt text](https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg)
-![](https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg =100x20)
+![alt text](https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155435317.jpg =100x20)
 Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word micro:bit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish.
 
 - 1x BBC: micro:bit (+ usb cable, battery pack and 40 pin male header connector 2.54mm pitch)
