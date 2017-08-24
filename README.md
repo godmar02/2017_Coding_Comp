@@ -55,7 +55,7 @@ We have included the below resources which are a good starting point for learnin
 [quick-start]: http://microbit.org/guide/quick/
 [quick-start-mobile]: http://microbit.org/guide/mobile/
 [quick-start-hardware]: http://microbit.org/guide/hardware/
-[edge-connector]: https://www.kitronik.co.uk/5601b-edge-connector-breakout-board-for-bbc-micro:bit-pre-built.html
+[edge-connector]: https://www.kitronik.co.uk/5601b-edge-connector-breakout-board-for-bbc-microbit-pre-built.html
 [components]: http://microbit-playground.co.uk/components/
 [servo]: https://www.kitronik.co.uk/blog/using-bbc-micro:bit-control-servo/
 [buzzer]: https://www.kitronik.co.uk/blog/micro:bit-alarm-kitronik-university
