@@ -3,7 +3,7 @@
 This year all teams have been provided with a BBC micro:bit and an assorted box of goodies. The BBC micro:bit is a pocket sized computer that was specially designed to teach students the basics of computer programming. It can be connected to a wide array of devices and components, which is why we have given you so many to play around with!
 
 ## What's in your box
-Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word micro:bit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish. If you have any issues with the equipment please go to your mentor in the first instance.
+Inside your box your should find a number of small items, do not be afraid if you don't know what they are! A quick google along with the word micro:bit always throws up past examples and we have included a number below. Feel free to use as many or as little of these as you wish. If you have any issues with the equipment or you think you may be missing things please go to your mentor in the first instance. We may also be able to accommodate requests for small ammounts of additional kit if you let us know.
 
 - 1x BBC: micro:bit (+ usb cable, battery pack and 40 pin male header connector)
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155717017.jpg" alt="micro:bit" width="200" height="200" />
@@ -51,15 +51,15 @@ We have included the below resources which are a good starting point for learnin
 - [Python Tutorials 2][micro:bit-python] - some more tutorials using python on the micro:bit, which use an offline python editor
 
 <!--Links-->
-[micro:bit-home]: http://micro:bit.org/
-[quick-start]: http://micro:bit.org/guide/quick/
-[quick-start-mobile]: http://micro:bit.org/guide/mobile/
-[quick-start-hardware]: http://micro:bit.org/guide/hardware/
+[micro:bit-home]: http://microbit.org/
+[quick-start]: http://microbit.org/guide/quick/
+[quick-start-mobile]: http://microbit.org/guide/mobile/
+[quick-start-hardware]: http://microbit.org/guide/hardware/
 [edge-connector]: https://www.kitronik.co.uk/5601b-edge-connector-breakout-board-for-bbc-micro:bit-pre-built.html
-[components]: http://micro:bit-playground.co.uk/components/
+[components]: http://microbit-playground.co.uk/components/
 [servo]: https://www.kitronik.co.uk/blog/using-bbc-micro:bit-control-servo/
 [buzzer]: https://www.kitronik.co.uk/blog/micro:bit-alarm-kitronik-university
-[ldr]: http://www.getmicros.net/micro:bit-ldr-example.php
-[micro:bit-playground]: http://micro:bit-playground.co.uk/
-[micro:bit-python-guide]: https://micro:bit.co.uk/python-guide/
+[ldr]: http://www.getmicros.net/microbit-ldr-example.php
+[micro:bit-playground]: http://microbit-playground.co.uk/
+[micro:bit-python-guide]: https://microbit.co.uk/python-guide/
 [micro:bit-python]: http://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
