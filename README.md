@@ -51,6 +51,7 @@ We have included the below resources which are a good starting point for learnin
 - [micro:bit-playground.co.uk][micro:bit-playground]
 - [Python Tutorial][micro:bit-python-guide] - a variety of guides/tutorials to using python on the micro:bit
 - [Python Tutorials 2][micro:bit-python] - some more tutorials using python on the micro:bit, which use an offline python editor
+- [Start Coding with the JavaScript Blocks Editor][lessons] - a collection of simple lessons and projects
 
 <!--Links-->
 [micro:bit-home]: http://microbit.org/
@@ -67,3 +68,4 @@ We have included the below resources which are a good starting point for learnin
 [micro:bit-python]: http://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
 [ExtractData]: https://www.dendrite.me/media/view/mediaid/56e935d3851dc63b1b179f89/content_disp
 [SendData]: https://www.microbit.co.uk/td/serial-library
+[lessons]: http://microbit.org/en/2017-03-07-javascript-block-resources/
