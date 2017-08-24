@@ -57,8 +57,8 @@ We have included the below resources which are a good starting point for learnin
 [quick-start-hardware]: http://microbit.org/guide/hardware/
 [edge-connector]: https://www.kitronik.co.uk/5601b-edge-connector-breakout-board-for-bbc-microbit-pre-built.html
 [components]: http://microbit-playground.co.uk/components/
-[servo]: https://www.kitronik.co.uk/blog/using-bbc-micro:bit-control-servo/
-[buzzer]: https://www.kitronik.co.uk/blog/micro:bit-alarm-kitronik-university
+[servo]: https://www.kitronik.co.uk/blog/using-bbc-microbit-control-servo/
+[buzzer]: https://www.kitronik.co.uk/blog/microbit-alarm-kitronik-university
 [ldr]: http://www.getmicros.net/microbit-ldr-example.php
 [micro:bit-playground]: http://microbit-playground.co.uk/
 [micro:bit-python-guide]: https://microbit.co.uk/python-guide/
