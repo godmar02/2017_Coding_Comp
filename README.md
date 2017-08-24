@@ -27,7 +27,9 @@ Inside your box your should find a number of small items, do not be afraid if yo
 - 1x Bluetooth adaptor
 <img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170822_155535973.jpg" alt="BluetoothAdaptor" width="200" height="200" />
 - 1x 9g micro servo
-- 1x DHT11 temperature and humidity sensor (TBC)
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170824_093241497.jpg" alt="MicroServo" width="200" height="200" />
+- 1x DHT11 temperature and humidity sensor
+<img src="https://github.com/godmar02/2017_Coding_Comp/blob/master/IMG_20170824_093244190.jpg" alt="TempAndHumdity" width="200" height="200" />
 
 ## Getting Started with your micro:bit
 To get up and running with your micro:bit we suggest that you start by reading the very helpful brief set-up guide provided by [micro:bit.org][micro:bit-home] by clicking [here][quick-start]. This tells you how to hit the ground running with coding on the micro:bit.  Additionally, if you wish to code using your phone and connect to the micro:bit using its bluetooth connectivity then you can follow their mobile set-up guide [here][quick-start-mobile].
