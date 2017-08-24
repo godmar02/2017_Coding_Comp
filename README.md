@@ -47,7 +47,7 @@ Additionally, the following links give basics for a [servo], a [buzzer] and an [
 We have included the below resources which are a good starting point for learning about the microbit and what it can do:
 - [micro:bit.org][micro:bit-home] 
 - [micro:bit-playground.co.uk][micro:bit-playground]
-- [connecting_to_computer][Extracting micro:bit data] - this is a guide to extracting the accelerometer data from your micro:bit
+- [Extracting micro:bit data][ExtractData] - this is a guide to extracting the accelerometer data from your micro:bit
 - [Python Tutorial][micro:bit-python-guide] - a variety of guides/tutorials to using python on the micro:bit
 - [Python Tutorials 2][micro:bit-python] - some more tutorials using python on the micro:bit, which use an offline python editor
 
@@ -64,4 +64,4 @@ We have included the below resources which are a good starting point for learnin
 [micro:bit-playground]: http://microbit-playground.co.uk/
 [micro:bit-python-guide]: https://microbit.co.uk/python-guide/
 [micro:bit-python]: http://microbit-micropython.readthedocs.io/en/latest/tutorials/introduction.html
-[connecting_to_computer]: https://www.dendrite.me/media/view/mediaid/56e935d3851dc63b1b179f89/content_disp
+[ExtractData]: https://www.dendrite.me/media/view/mediaid/56e935d3851dc63b1b179f89/content_disp
